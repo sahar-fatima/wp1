@@ -1,0 +1,181 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.12
+MySQL version 		: 5.5.5
+XML Reader 		: Yes
+PHP Version 		: 7.3.12
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 40M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 40 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 15:08:58 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 30
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"1.8.7","theme-auto-version":"1.8.7","site-sidebar-layout":"no-sidebar","site-content-layout":"boxed-container","header-layouts":"header-main-layout-1","header-main-sep":0,"ast-header-responsive-logo-width":{"desktop":"132","tablet":"","mobile":"130"},"display-site-title":false,"site-layout-outside-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"theme-color":"#ff770f","link-color":"#ff770f","link-h-color":"#000000","body-font-family":"'Josefin Sans', sans-serif","body-font-weight":"400","font-size-body":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":"140","tablet":"100","mobile":"70","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"50","tablet":"45","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"36","tablet":"32","mobile":"40","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"28","tablet":"25","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"22","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"18","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"text-color":"#000000","footer-sml-divider":0,"footer-bg-obj":{"background-color":"rgba(8,12,17,0)","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"header-main-rt-section":"button","primary-submenu-item-border":1,"button-bg-color":"#ff770f","button-bg-h-color":"#ff8800","button-radius":30,"header-main-rt-section-html":"<a href=\"\"><button> Reservations<\/button><\/a>","button-v-padding":8,"button-color":"#ffffff","button-h-color":"#141414","different-mobile-logo":false,"mobile-header-logo":"","mobile-header-toggle-btn-style":"fill","mobile-header-toggle-btn-style-color":"#ff770f","mobile-header-toggle-btn-border-radius":3,"footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | Powered by [site_title]","hide-custom-menu-mobile":false,"above-header-submenu-item-border":1,"below-header-submenu-item-border":1,"body-font-variant":"400","transparent-header-enable":0,"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"logo-title-inline":0,"wc-header-cart-header-colors":false,"headings-font-family":"'Berkshire Swash', handwriting","headings-font-weight":"400","header-main-rt-section-button-text":"Reservation","header-main-rt-section-button-link":"#","shop-quick-view-stick-cart":true},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/394/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"Primary Menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":2,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 33 - attachment - hero01-free-img
+Inserted - Post 68 - attachment - quotes2-free-img
+Inserted - Post 83 - attachment - hero04-free-img
+Inserted - Post 86 - attachment - frill-free-img
+Inserted - Post 89 - attachment - knife-free-imge
+Inserted - Post 90 - attachment - fork-free-img
+Inserted - Post 92 - attachment - divider-free-img
+Inserted - Post 93 - attachment - pic07-free-img
+Inserted - Post 97 - attachment - pic08-free-img
+Inserted - Post 107 - attachment - leaf-free-img
+Inserted - Post 110 - attachment - pic16-free-img
+Inserted - Post 111 - attachment - pic17-free-img
+Inserted - Post 113 - attachment - pic18-free-img
+Inserted - Post 115 - attachment - pic19-free-img
+Inserted - Post 126 - attachment - pic25-free-img
+Inserted - Post 128 - attachment - pic27-free-img
+Inserted - Post 130 - attachment - pic28-free-img
+Inserted - Post 136 - attachment - pic32-free-img
+Inserted - Post 137 - attachment - pic33-free-img
+Inserted - Post 141 - attachment - pic34-free-img
+Inserted - Post 143 - attachment - 5stars-free-img
+Inserted - Post 154 - attachment - pic36-free-img
+Inserted - Post 167 - attachment - pic38-free-img
+Inserted - Post 170 - attachment - pic39-free-img
+Inserted - Post 172 - attachment - pic41-free-img
+Inserted - Post 175 - attachment - pic42-free-img
+Inserted - Post 176 - attachment - pic43-free-img
+Inserted - Post 177 - attachment - pic44-free-img
+Inserted - Post 178 - attachment - pic45-free-img
+Inserted - Post 179 - attachment - pic46-free-img
+Inserted - Post 180 - attachment - try
+Inserted - Post 182 - attachment - pic48-free-img
+Inserted - Post 183 - attachment - pic49-free-img
+Inserted - Post 184 - attachment - pic50-free-img
+Inserted - Post 185 - attachment - pic51-free-img
+Inserted - Post 190 - attachment - pic55-free-img
+Inserted - Post 202 - attachment - pic58-free-img
+Inserted - Post 216 - attachment - slider3.jpg
+Inserted - Post 227 - attachment - chef07-free-img
+Inserted - Post 231 - attachment - old-typical-phone
+Inserted - Post 233 - attachment - pic62-free-img
+Inserted - Post 235 - attachment - pic64-free-img
+Inserted - Post 245 - attachment - yelp-free-img
+Inserted - Post 246 - attachment - tripadvisorlogo1-free-img
+Inserted - Post 248 - attachment - google-reviews-free-img
+Inserted - Post 250 - attachment - fb-free-imng
+Inserted - Post 252 - attachment - tweet-free-img
+Inserted - Post 266 - attachment - fresco-free-logo
+Inserted - Post 268 - attachment - favicon-free-img
+Inserted - Post 274 - attachment - italian-restaurant-facebook-yoast-free-img
+Inserted - Post 287 - attachment - fresco-free-logo
+Inserted - Post 288 - attachment - frill-free-img.png
+Inserted - Post 289 - attachment - pic32-free-img.jpg
+Inserted - Post 290 - attachment - pic27-free-img.jpg
+Inserted - Post 291 - attachment - hero01-free-img.jpg
+Inserted - Post 293 - attachment - divider-free-img.png
+Inserted - Post 294 - attachment - pic48-free-img.jpg
+Inserted - Post 295 - attachment - pic62-free-img.jpg
+Inserted - Post 296 - attachment - try.jpg
+Inserted - Post 297 - attachment - pic36-free-img.jpg
+Inserted - Post 298 - attachment - leaf-free-img.png
+Inserted - Post 299 - attachment - pic28-free-img.jpg
+Inserted - Post 300 - attachment - pic41-free-img.png
+Inserted - Post 301 - attachment - pic42-free-img.png
+Inserted - Post 302 - attachment - pic43-free-img.png
+Inserted - Post 303 - attachment - pic61-free-img.jpg
+Inserted - Post 304 - attachment - pic44-free-img.png
+Inserted - Post 305 - attachment - pic45-free-img.png
+Inserted - Post 306 - attachment - pic46-free-img.png
+Inserted - Post 307 - attachment - old-typical-phone.png
+Inserted - Post 308 - attachment - pic55-free-img.jpg
+Inserted - Post 309 - attachment - pic58-free-img.jpg
+Inserted - Post 310 - attachment - pic64-free-img.jpg
+Inserted - Post 311 - attachment - pic34-free-img.jpg
+Inserted - Post 316 - attachment - pic49-free-img.png
+Inserted - Post 317 - attachment - quotes2-free-img.png
+Inserted - Post 318 - attachment - tripadvisorlogo1-free-img.png
+Inserted - Post 319 - attachment - yelp-free-img.png
+Inserted - Post 320 - attachment - google-reviews-free-img.png
+Inserted - Post 321 - attachment - fb-free-imng.png
+Inserted - Post 322 - attachment - tweet-free-img.png
+Inserted - Post 323 - attachment - fork-free-img.png
+Inserted - Post 324 - attachment - knife-free-imge.png
+Inserted - Post 326 - attachment - pic25-free-img.jpg
+Inserted - Post 327 - attachment - pic33-free-img.jpg
+Inserted - Post 328 - attachment - pic17-free-img.jpg
+Inserted - Post 329 - attachment - pic18-free-img-1.jpg
+Inserted - Post 330 - attachment - pic19-free-img.jpg
+Inserted - Post 331 - attachment - pic50-free-img.png
+Inserted - Post 332 - attachment - pic51-free-img.png
+Inserted - Post 415 - attachment - pic-20-free-img
+Inserted - Post 430 - attachment - pic21-free-img
+Inserted - Post 532 - attachment - pic02-free-img
+Inserted - Post 545 - attachment - pic03-free-img
+Inserted - Post 547 - attachment - pic04-free-img
+Inserted - Post 552 - attachment - pic05-free-img
+Inserted - Post 555 - attachment - back01-free-img
+Inserted - Post 666 - attachment - chef02-free-img
+Inserted - Post 667 - custom_css - astra
+Inserted - Post 668 - page - Home
+Inserted - Post 669 - page - About Us
+Inserted - Post 670 - page - Menu
+Inserted - Post 671 - nav_menu_item - 
+Inserted - Post 672 - nav_menu_item - 
+Inserted - Post 673 - nav_menu_item - 
+Inserted - Post 674 - nav_menu_item - 
+Inserted - Post 285 - custom_css - astra
+Inserted - Post 675 - attachment - chef03-free-img
+Inserted - Post 678 - attachment - chef01-free-img
+Inserted - Post 680 - attachment - chef04-free-img
+Inserted - Post 681 - attachment - chef05-free-img
+Inserted - Post 823 - nav_menu_item - 
+Inserted - Post 825 - attachment - Pizza-4
+Inserted - Post 826 - attachment - Pizza-3
+Inserted - Post 827 - attachment - Pizza
+Inserted - Post 828 - attachment - Pasta
+Inserted - Post 829 - attachment - Pizza-2
+Inserted - Post 834 - attachment - cooking
+Inserted - Post 835 - page - Contact
+Inserted - Post 353 - post - Morbi ornare pulvinar
+Inserted - Post 815 - page - Blog
+Inserted - Post 818 - post - Maecenas ornare mi id neque
+Inserted - Post 819 - post - Pellentesque nec finibus metus
+Inserted - Post 820 - post - Duis vehicula finibus ultrices
+Inserted - Post 821 - post - Proin quis velit id neque suscipit
+Inserted - Post 822 - post - Aliquam eros turpis
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/italian-restaurant-07\/wp-content\/uploads\/sites\/394\/2018\/12\/fresco-free-logo.svg","nav_menu_locations":{"primary":"primary-menu","footer_menu":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"10","elementor_stretched_section_container":null,"woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'home' (1)
+---- Processing Images from Widgets -----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 823
+Post ID: 671
+Post ID: 672
+Post ID: 673
+Post ID: 674
+---- Processing MISC ----
+Post ID: 823
+Post ID: 671
+Post ID: 672
+Post ID: 673
+Post ID: 674
+Batch Process Complete!
+Batch Process Complete!
+Complete 
